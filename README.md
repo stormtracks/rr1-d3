@@ -1,3 +1,11 @@
+
+This is a fork of [react-redux-d3](https://github.com/lucmerceron/React-Redux-D3)
+
+With some new d3 graphs, in parallel I am also working on
+[Aspen]() which are the new d3 concepts in a
+[create-react-app]() framework instead of serving up
+the static bundle via Express.
+
 ## Introduction
 
 A simple example on how D3 can be used with a classic React web application stack (React Router, Redux, webpack).
