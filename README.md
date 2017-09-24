@@ -1,10 +1,12 @@
 
 This is a fork of [react-redux-d3](https://github.com/lucmerceron/React-Redux-D3)
+with some new d3 graphs.
 
-With some new d3 graphs, in parallel I am also working on
+In parallel I am also working on
 [Aspen]() which are the new d3 concepts in a
-[create-react-app]() framework instead of serving up
-the static bundle via Express.
+[create-react-app](https://github.com/facebookincubator/create-react-app) framework instead of serving up
+the static bundle via Express in this repo.
+Note, for development the static bundle is much faster.
 
 ## Introduction
 
