@@ -1,7 +1,7 @@
 var path = require('path')
 var webpack = require('webpack')
 
-var entry = './main'
+var entry = './src/index.js'
 
 var babelSettings = { presets: ['react', 'es2015'] }
 

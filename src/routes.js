@@ -1,10 +1,10 @@
 import { Route, Router, IndexRoute } from 'react-router'
 import React from 'react'
 
-import Home from './src/components/containers/Home'
-import DashboardZero from './src/components/containers/DashboardZero'
-import DashboardOne from './src/components/containers/DashboardOne'
-import DashboardTwo from './src/components/containers/DashboardTwo'
+import Home from './components/containers/Home'
+import DashboardZero from './components/containers/DashboardZero'
+import DashboardOne from './components/containers/DashboardOne'
+import DashboardTwo from './components/containers/DashboardTwo'
 
 class Routes extends React.Component {
   constructor() {
